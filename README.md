@@ -1,2 +1,2 @@
 # streamlit-devarapalli-cars
-deploy mlops project
+Car resale predection 
